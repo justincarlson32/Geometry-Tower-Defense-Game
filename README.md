@@ -2,4 +2,4 @@
 
 webGL version of https://github.com/justincarlson32/Geometry-Tower-Defense
 
-accessible at https://justincarlson32.github.io/
+accessible at https://justincarlson32.github.io/GeometryTowerDefense
